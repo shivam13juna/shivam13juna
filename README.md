@@ -1,5 +1,5 @@
 # Hi there 👋, 
-## I'm currently a Data Scientist in MakeMyTrip, working on L2R models. Soon to move from the Employee quadrant to Entrepreneur quadrant! Looking forward to collaborations!! 
+## I'm currently a Data Scientist in MakeMyTrip, working on L2R models. Also a Top-Rated freelancer on UpWork. Soon to move from the Employee quadrant to Entrepreneur quadrant! Looking forward to collaborations!! 
 
 ### Some quick facts about me:
 
@@ -9,6 +9,7 @@
 -   <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" width="30" height="30"> shivam13juna@gmail.com
 -   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="30" height="30"> https://twitter.com/shivam13juna
 -   <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-256.png" width="30" height="30">  https://www.linkedin.com/in/shivam13juna/
+-   <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/upwork-icon.png" width="30" height="30"> https://www.upwork.com/freelancers/~012a4e052e35894ba0
 - ⚡ Fun fact: ... Did minors in Psychology, avid Philosopher, Infinite player
 
 
