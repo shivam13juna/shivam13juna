@@ -13,9 +13,6 @@
 [![Email](https://img.shields.io/badge/shivam13juna@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivam13juna@gmail.com)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shivam13juna)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivam13juna&style=flat-square&color=00D9FF&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/shivam13juna?style=flat-square&color=00D9FF&labelColor=0F2027&label=FOLLOWERS)](https://github.com/shivam13juna?tab=followers)
-
 </div>
 
 ---
@@ -76,6 +73,7 @@
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
 
